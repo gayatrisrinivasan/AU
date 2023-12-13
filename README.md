@@ -2,4 +2,5 @@
 Front-End Individual Elements/Pages for the website
 
 ## Files Included
-- None yet
+- Home Page by Aashrith
+- Horizontal Moving Text by Gayatri
