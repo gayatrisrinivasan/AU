@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.scrolling-text-container {
+    white-space: nowrap;
+    overflow: hidden;
+    position: absolute;
+    animation: scrollText 20s linear infinite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+@keyframes scrollText {
+    from { transform: translateX(100vw); }
+    to { transform: translateX(-100%); }
+}
+
+
