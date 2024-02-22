@@ -37,7 +37,7 @@ body {
 
 /* Navigation Bar Styles */
 nav {
-    background-color: #208eff;
+    background-color: #1e2756;
     overflow: hidden;
     display: flex;
     justify-content: space-between;
@@ -95,7 +95,7 @@ nav a:hover {
 }
 
 nav a, .dropdown:hover .dropbtn {
-    background-color: #0157ae;
+    background-color: #060c2d;
 }
 
 .dropdown-content {
